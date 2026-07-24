@@ -368,7 +368,7 @@
     "kind-of": "^6.0.3",
     "last-call-webpack-plugin": "^3.0.0",
     "lcid": "^3.1.1",
-    "linkify-it": "^3.0.2",
+    "linkify-it": "^5.0.2",
     "load-script": "^1.0.0",
     "loader-runner": "^4.0.0",
     "loader-utils": "^2.0.0",
