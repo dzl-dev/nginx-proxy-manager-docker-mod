@@ -680,7 +680,7 @@
     "to-regex": "^3.0.2",
     "to-regex-range": "^5.0.1",
     "toidentifier": "^1.0.0",
-    "toml": "^3.0.0",
+    "toml": "^4.2.0",
     "toposort": "^2.0.2",
     "tough-cookie": "^4.0.0",
     "tr46": "^2.0.2",
